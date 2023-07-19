@@ -3,10 +3,6 @@ body {
   background-color: lightgray;
 }
 
-#my-canvas {
-  background-color: darkgray;
-}
-
 #start-btn, #restart-btn {
   background-color: green;
   color: white;
@@ -22,4 +18,10 @@ body {
   justify-content: center;
   align-items: center;
   margin: 50px;
+}
+
+#game-box {
+  background-color: darkgray;
+  width:600px;
+  height:400px;
 }
